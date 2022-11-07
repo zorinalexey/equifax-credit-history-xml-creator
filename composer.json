@@ -1,0 +1,21 @@
+{
+    "name": "equifax/history-files",
+    "description": "test",
+    "type": "library",
+    "require": {
+        "equifax/xml-generator": "^2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Equifax\\HistoryFiles\\": "Equifax/History/Files/Generator/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Алексей Зорин",
+            "email": "zorinalexey59292@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
