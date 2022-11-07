@@ -1,8 +1,9 @@
 {
     "name": "equifax/history-files",
-    "description": "test",
+    "description": "Библиотека формирования xml файлов кредитных отчетов для БКИ Equifax",
     "type": "library",
     "require": {
+        "php": ">=7.4",
         "equifax/xml-generator": "^2.0"
     },
     "license": "MIT",
